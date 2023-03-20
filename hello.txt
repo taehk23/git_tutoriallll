@@ -1,6 +1,6 @@
 <<<<<<< HEAD
-1 line
-2line
+First line
+Second line
 =======
 First line
 Second line
